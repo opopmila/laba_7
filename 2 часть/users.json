@@ -1,0 +1,18 @@
+[
+    {
+        "id": null,
+        "name": "Milana",
+        "surname": "Morozova",
+        "date": "11.11.2005",
+        "phone": "9005320052",
+        "age": 18
+    },
+    {
+        "id": 1,
+        "name": "Milana",
+        "surname": "Morozova",
+        "date": "11.11.2005",
+        "phone": "9005320052",
+        "age": 18
+    }
+]
